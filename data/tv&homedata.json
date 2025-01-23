@@ -1,0 +1,48 @@
+{
+  "first": [
+    {
+      "title": "Easily control your home from anywhere with your favorite devices.",
+      "Sub_title": "",
+      "link": "Learn more about the Home app",
+      "description": ""
+    },
+    {
+      "title": "Seamlessly connected entertainment in every room.",
+      "Sub_title": "",
+      "link": "Learn more about HomePod",
+      "description": ""
+    },
+    {
+      "title": "All with the security and privacy of Apple.",
+      "Sub_title": "",
+      "link": "Learn more about Privacy",
+      "description": ""
+    }
+  ],
+  "second": [
+    {
+      "title": "Lighting",
+      "Sub_title": "Put your routine on a timer. Or set the mood with bulbs and switches.",
+      "link": "Learn more about the Home app",
+      "description": "Nanoleaf A19 Bulb"
+    },
+    {
+      "title": "Security",
+      "Sub_title": "Keep an eye on what matters most with cameras, doorbells, and more.",
+      "link": "Shop Cameras and Sensors",
+      "description": "Logitech Circle View Wired Doorbell"
+    },
+    {
+      "title": "Comfort",
+      "Sub_title": "Turn up the heat or keep your cool with temperature controls and fans.",
+      "link": "Shop Thermostats",
+      "description": "ecobee Smart Thermostat Premium with Siri and Built‑In Air Quality Monitor"
+    },
+    {
+      "title": "Entry",
+      "Sub_title": "Unlock more ways to access your home with locks and garage door openers.",
+      "link": "Shop Sensors and Locks1",
+      "description": "Level Lock+ with Home Key Support"
+    }
+  ]
+}

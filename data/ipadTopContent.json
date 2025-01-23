@@ -1,0 +1,112 @@
+{
+  "first": [
+    {
+      "title": "iPad Pro"
+    },
+    {
+      "title": "iPad Air"
+    },
+    {
+      "title": "iPad"
+    },
+    {
+      "title": "iPad mini new"
+    },
+    {
+      "title": "Compare"
+    },
+    {
+      "title": "Keyboards"
+    },
+    {
+      "title": "Accessoriesfor iPad"
+    },
+    {
+      "title": "iPadOS 18 "
+    },
+    {
+      "title": "shop ipad"
+    }
+  ],
+  "second": [
+    {
+      "title": "Hello, Apple intelligence.",
+      "SubTitle": "Personal, private, powerful."
+    },
+    {
+      "title": "Productivity",
+      "SubTitle": "Your workplace can be any place."
+    },
+    {
+      "title": "Creativity",
+      "SubTitle": "Take your inner artist out and about."
+    },
+    {
+      "title": "Learning",
+      "SubTitle": "Your classroom can be anywhere."
+    },
+    {
+      "title": "Entertainment",
+      "SubTitle": "Kick back. Tune in. Game on."
+    },
+    {
+      "title": "Apple pencil",
+      "SubTitle": "Dream it up. jot it Down."
+    }
+  ],
+
+  "third": [
+    {
+      "title": "iPad Pro",
+      "SubTitle": "The ultimate iPad experience with the most advanced technology.",
+      "price": "From $999 or $83.25/mo. for 12 mo",
+      "SubSub_title": "13″ or 11″",
+      "description": "Ultra Retina XDR display4 ProMotion technology P3 wide color Nano-texture display glass option on 1TB and 2TB models",
+      "brand_one": "M4 chip",
+      "brand_tow": "Apple Intelligence1",
+      "brand_three": "12MP Wide camera 4K video, ProRes",
+      "brand_four": "Landscape 12MP Center Stage camera TrueDepth camera system",
+      "brand_five": "Supports Apple Pencil Pro Supports Apple Pencil (USB‑C)",
+      "brand_six": "Supports Magic Keyboard for iPad Pro (M4)"
+    },
+    {
+      "title": "iPad Air",
+      "SubTitle": "Serious performance in a thin and light design.",
+      "price": "From $599 or $49.91/mo. for 12 mo.*",
+      "SubSub_title": "13″ or 11″",
+      "description": "Liquid Retina display4 P3 wide color",
+      "brand_one": "M2 chip",
+      "brand_tow": "Apple Intelligence1",
+      "brand_three": "12MP Wide camera 4K video",
+      "brand_four": "Landscape 12MP Center Stage camera",
+      "brand_five": "Supports Apple Pencil Pro Supports Apple Pencil (USB‑C)",
+      "brand_six": "Supports Magic Keyboard"
+    },
+    {
+      "title": "iPad",
+      "SubTitle": "The colorful, all‑screen iPad for the things you do every day.",
+      "price": "From $349 or $29.08/mo. for 12 mo.*",
+      "SubSub_title": "10.9″",
+      "description": "Liquid Retina display4 sRGB color",
+      "brand_one": "A14 Bionic chip",
+      "brand_tow": "",
+      "brand_three": "12MP Wide camera 4K video",
+      "brand_four": "Landscape 12MP Center Stage camera",
+      "brand_five": "Supports Apple Pencil (USB‑C) Supports Apple Pencil (1st generation)5",
+      "brand_six": "Supports Magic Keyboard Folio"
+    },
+    {
+      "title": "iPad mini",
+      "SubTitle": "The full iPad experience in an ultraportable design.",
+      "price": "From $499 or $41.58/mo. for 12 mo.*",
+      "SubSub_title": "8.9″",
+      "description": "Liquid Retina display4 P3 wide color",
+      "brand_one": "A17 Pro chip",
+      "brand_tow": "Apple Intelligence1",
+      "brand_three": "12MP Wide camera 4K video",
+      "brand_four": "12MP Center Stage camera",
+      "brand_five": "Supports Apple Pencil Pro Supports Apple Pencil (USB‑C)",
+      "brand_six": "Supports Bluetooth keyboards"
+    }
+  ]
+}

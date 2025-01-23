@@ -1,0 +1,92 @@
+{
+  "first": [
+    {
+      "title": "iPhone 16 Pro"
+    },
+
+    {
+      "title": "iPhone SE"
+    },
+    {
+      "title": "Compare"
+    },
+
+    {
+      "title": "AirTag"
+    },
+    {
+      "title": "Accessories"
+    },
+    {
+      "title": "Apple Card"
+    },
+    {
+      "title": "Shop iPhone "
+    }
+  ],
+  "second": [
+    {
+      "title": "Apple Intelligence.",
+      "SubTitle": "AI-opening possibilities"
+    },
+    {
+      "title": "Cutting-Edge Cameras.",
+      "SubTitle": "Picture your best photos and videos."
+    },
+    {
+      "title": "Chip and Battery Life.",
+      "SubTitle": "Fast that lasts."
+    },
+    {
+      "title": "Innovation.",
+      "SubTitle": "Beautiful and durable, by design."
+    },
+    {
+      "title": "Environment.",
+      "SubTitle": "Recycle. Reuse. Repeat."
+    }
+  ],
+
+  "third": [
+    {
+      "title": "iPhone 16 Pro",
+      "SubTitle": "The ultimate iPhone.",
+      "price": "From $999 or $41.62/mo. for 24 mo.**",
+      "brand_tow": "Apple Intelligence1",
+      "brand_three": "A18 Pro chip with 6-core GPU",
+      "brand_four": "Camera Control",
+      "brand_five": "Pro camera system Our most advanced 48MP Fusion camera 5x Telephoto camera 48MP Ultra Wide camera",
+      "brand_six": "Up to 33 hours video playback2"
+    },
+    {
+      "title": "iPhone 16",
+      "SubTitle": "A total powerhouse.",
+      "price": "From $799 or $33.29/mo. for 24 mo.**.*",
+      "brand_tow": "Apple Intelligence1",
+      "brand_three": "A18 chip with 5-core GPU",
+      "brand_four": "Camera Control",
+      "brand_five": "Advanced dual-camera system 48MP Fusion camera 2x Telephoto12MP Ultra Wide camera",
+      "brand_six": "Up to 27 hours video playback2"
+    },
+    {
+      "title": "iPhone 15",
+      "SubTitle": "As amazing as ever.",
+      "price": "From $699 or $29.12/mo. for 24 mo.**",
+      "brand_tow": "",
+      "brand_three": "A16 Bionic chip with 5-core GPU",
+      "brand_four": "",
+      "brand_five": "Dual-camera system 48MP Main camera 2x Telephoto 12MP Ultra Wide camera",
+      "brand_six": "Up to 26 hours video playback2"
+    },
+    {
+      "title": "iPhone 14",
+      "SubTitle": "All kinds of awesome.",
+      "price": "From $599 or $24.95/mo. for 24 mo.**",
+      "brand_tow": "",
+      "brand_three": "A15 Bionic chip with 5-core GPU",
+      "brand_four": "",
+      "brand_five": "Dual-camera system 12MP Main camera —Telephoto camera not applicable 12MP Ultra Wide camera",
+      "brand_six": "Up to 26 hours video playback2"
+    }
+  ]
+}

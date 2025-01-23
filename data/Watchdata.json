@@ -1,0 +1,106 @@
+{
+  "first": [
+    {
+      "title": "Apple Watch Series 10"
+    },
+    {
+      "title": "Apple Watch Ultra 2"
+    },
+    {
+      "title": "Apple Watch SE"
+    },
+    {
+      "title": "Apple Watch Nike"
+    },
+    {
+      "title": "Apple Watch Hermès"
+    },
+    {
+      "title": " Compare"
+    },
+    {
+      "title": "Bands"
+    },
+    {
+      "title": "AirPods"
+    },
+    {
+      "title": " Accessories"
+    },
+    {
+      "title": " Apple Fitness+"
+    },
+    {
+      "title": " watchOS 11"
+    },
+    {
+      "title": "Shop Watch"
+    }
+  ],
+  "second": [
+    {
+      "SubTitle": " Knows you by heart..",
+      "title": "Health"
+    },
+    {
+      "SubTitle": "Every move counts.",
+      "title": "Fitness"
+    },
+    {
+      "SubTitle": "Connectivity",
+      "title": "The right call for staying in touch."
+    },
+    {
+      "SubTitle": "Safety",
+      "title": "Good help is easy to find."
+    },
+    {
+      "SubTitle": "Apple Watch + iPhone",
+      "title": "built to stand the test of time"
+    },
+    {
+      "SubTitle": "Personalization",
+      "title": "Make it you-nique."
+    },
+    {
+      "SubTitle": "Apple Watch Ultra 2",
+      "title": "The ultimate sports and adventure watch."
+    },
+    {
+      "SubTitle": "Apple Watch For Your Kids.",
+      "title": "bIndependence for them Peace of mind for you"
+    }
+  ],
+  "third": [
+    {
+      "title": "Apple Watch SE",
+      "SubTitle": "All the essentials. Light on price.",
+      "price": "From $249 or $20.75/mo. for 12 mo.*",
+      "brand_tow": "44mm or 40mm aluminum case",
+      "brand_three": "Retina display Up to 1000 nits",
+      "brand_four": "S8 SiP —Double tap gesture not applicable Siri Find iPhone",
+      "brand_five": "High and low heart rate notifications Irregular rhythm notifications3 Low cardio fitness notifications",
+      "brand_six": "Up to 18 hours21 Low Power Mode"
+    },
+    {
+      "title": "Apple Watch Series 10",
+      "SubTitle": "Thinnest. Biggest display.22 Advanced health features.",
+      "price": "From $399 or $33.25/mo. for 12 mo.*",
+      "brand_tow": "46mm or 42mm aluminum or titanium case",
+      "brand_three": "Always-On Retina display Up to 2000 nits",
+      "brand_four": "S10 SiP Double tap gesture Faster on-device Siri with health data access Precision Finding for iPhone17",
+      "brand_five": "ECG app2 High and low heart rate notifications Irregular rhythm notifications3 Low cardio fitness notifications Sleep apnea notifications4",
+      "brand_six": "Up to 18 hours23 Up to 36 hours in Low Power Mode23 Fast charging24"
+    },
+    {
+      "title": "Apple Watch Ultra 2",
+      "SubTitle": "The ultimate sports and adventure watch.",
+      "price": "From $799 or $66.58/mo. for 12 mo.*",
+      "brand_tow": "49mm titanium case",
+      "brand_three": "Always-On Retina display Up to 3000 nits",
+      "brand_four": "S9 SiP Double tap gesture Faster on-device Siri with health data access Precision Finding for iPhone17",
+      "brand_five": "ECG app2 High and low heart rate notifications Irregular rhythm notifications3 Low cardio fitness notifications Sleep apnea notifications4",
+      "brand_six": "Up to 36 hours19 Up to 72 hours in Low Power Mode19 Fast charging24"
+    }
+  ]
+}

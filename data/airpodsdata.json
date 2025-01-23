@@ -1,0 +1,102 @@
+{
+  "product_one": [
+    {
+      "name": "AirPods 4",
+      "description": "The next evolution of sound, comfort, and noise control.",
+      "price": "$129"
+    },
+    {
+      "name": "AirPods Pro 2",
+      "description": "The next evolution of sound, comfort, and noise control.",
+      "price": "$279"
+    },
+    {
+      "name": "AirPods Max",
+      "description": "Pro-level Active Noise Cancellation and a breakthrough in hearing health.",
+      "price": "$249"
+    },
+    {
+      "name": "AirPods Max",
+      "description": "The ultimate over‑ear listening experience.",
+      "price": "$549"
+    }
+  ],
+  "product_tow": [
+    { "title": "__" },
+    {
+      "title": "Active Noise Cancellation, Adaptive Audio, and Transparency mode ◊"
+    },
+    {
+      "title": "Up to 2x more Active Noise Cancellation, ◊◊ with Adaptive Audio and Transparency mode ◊"
+    },
+    {
+      "title": "Up to 2x more Active Noise Cancellation, ◊◊ with Transparency mode"
+    },
+    {
+      "title": "Personalized Spatial Audio with dynamic head tracking ◊◊◊"
+    },
+    {
+      "title": "Personalized Spatial Audio with dynamic head tracking ◊◊◊"
+    },
+    {
+      "title": "Personalized Spatial Audio with dynamic head tracking ◊◊◊"
+    },
+    {
+      "title": "Personalized Spatial Audio with dynamic head tracking ◊◊◊"
+    },
+    {
+      "title": "__"
+    },
+    {
+      "title": "__"
+    },
+    {
+      "title": "Hearing Test, Δ Hearing Aid, Δ and Hearing Protection ΔΔ features"
+    },
+    {
+      "title": "__"
+    },
+    {
+      "title": "Voice Isolation, ΔΔΔ Hey Siri, and Siri Interactions ΔΔΔ"
+    },
+    {
+      "title": "Voic,e Isolation, ΔΔΔ Hey Siri,and Siri Interactions ΔΔΔ"
+    },
+    {
+      "title": "Voice Isolation, ΔΔΔ Hey Siri,and Siri Interactions ΔΔΔ"
+    },
+    {
+      "title": "Hey Siri"
+    },
+    {
+      "title": "Charging Case (USB‑C) ΔΔΔΔ"
+    },
+    {
+      "title": "Wireless Charging Case (USB‑C) ΔΔΔΔ with speaker for Find My"
+    },
+    {
+      "title": "Wireless Charging Case (USB‑C) with MagSafe, ΔΔΔΔ speaker for Find My with Precision Finding, ΔΔΔΔΔ and lanyard loop"
+    },
+    {
+      "title": "Smart Case"
+    }
+  ],
+  "product_three": [
+    {
+      "title": "Active Noise Cancellation",
+      "SubTitle": "Control what you hear. And what you don’t."
+    },
+    {
+      "title": "Personalized Spatial Audio",
+      "SubTitle": "Immersive sound. Fine‑tuned to you."
+    },
+    {
+      "title": "Hearing Health",
+      "SubTitle": "Check, aid, and help protect your hearing.1"
+    },
+    {
+      "title": "Magical Experience",
+      "SubTitle": "Simply effortless."
+    }
+  ]
+}

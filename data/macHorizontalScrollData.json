@@ -1,0 +1,108 @@
+{
+  "first": [
+    {
+      "title": "MacBook Air"
+    },
+    {
+      "title": "MacBook Pro"
+    },
+    {
+      "title": "iMac"
+    },
+    {
+      "title": "Mac Pro"
+    },
+
+    {
+      "title": "Compare"
+    },
+    {
+      "title": " Displays"
+    },
+    {
+      "title": "Accessories"
+    },
+    {
+      "title": "Sequoia"
+    },
+    {
+      "title": " shop mac"
+    }
+  ],
+  "second": [
+    {
+      "title": "Hello, Apple intelligence.",
+      "SubTitle": "Apple intelligence and MacOS"
+    },
+    {
+      "title": "Go Fast. Go Far",
+      "SubTitle": "performance and better battery"
+    },
+    {
+      "title": "Mac and Iphone",
+      "SubTitle": "Dream Team."
+    },
+    {
+      "title": "Compatibility",
+      "SubTitle": "Mac run your favorite app"
+    },
+    {
+      "title": "durablity",
+      "SubTitle": "built to stand the test of time"
+    }
+  ],
+  "third": [
+    {
+      "msg": "New",
+      "title": "MacBook Pro 14”  and 16” ",
+      "SubTitle": "M4, M4 Pro, or M4 Max chip",
+      "description": "Available in Space black, and Silver The most advanced Mac laptops for demanding workflows.",
+      "price": "From $1599 or $133.25/mo. for 12 mo.*"
+    },
+    {
+      "title": "MacBook Air 13” and 15” ",
+      "SubTitle": "M2 or M3 chip",
+      "description": "Strikingly thin and fast so you can work, play, or create anywhere.",
+      "price": "From $999 or $83.25/mo. for 12 mo.*"
+    }
+  ],
+  "four": [
+    {
+      "msg": "New",
+      "title": "iMac",
+      "SubTitle": "M4 chip",
+      "description": "A stunning all-in-one desktop for creativity and productivity.",
+      "price": "From $1299 or $108.25/mo. for 12 mo.*"
+    },
+    {
+      "msg": "new",
+      "title": "Mac mini",
+      "SubTitle": "M4 or M4 Pro chip",
+      "description": "The mini-est, most affordable Mac with mighty performance.",
+      "price": "From $599 or $49.91/mo. for 12 mo.*"
+    },
+    {
+      "title": "Mac Pro",
+      "SubTitle": "M2 Ultra chip",
+      "description": "A pro workstation with PCIe expansion for demanding workflows.",
+      "price": "From $6999 or $583.25/mo. for 12 mo.*"
+    }
+  ],
+  "five": [
+    {
+      "title": "Studio Display",
+      "SubTitle": "A 5K Retina display with stellar camera and audio.",
+      "price": "From $1599 or $133.25/mo. for 12 mo.*"
+    },
+    {
+      "title": "Pro Display XDR",
+      "SubTitle": "An advanced 6K XDR display for pro workflows.",
+      "price": "From $4999 or $416.58/mo. for 12 mo.*"
+    }
+  ]
+}
+
+
+
+
+
